@@ -2,7 +2,7 @@
 
 - 🌱 Just getting started with coding.
 
-- 📝 ***Not*** regularly write articles on [cc4dev.github.io](https://cc4dev.github.io)
+- 📝 ***Not*** regularly write articles on [cc4dev.is-a.dev](https://cc4dev.is-a.dev)
 
 - 💬 Ask me how to spend time looking at NCS visualizers (optional).
 
