@@ -10,7 +10,7 @@
 
 <h3 align="left"> Contact </h3>
 
-- [caodoc@proton.me](mailto:caodoc@proton.me) / [LeetCode](https://leetcode.com/u/ccaoishere/) / [HackerRank](https://www.hackerrank.com/profile/ccaoishere)
+- [cc4dev@proton.me](mailto:cc4dev@proton.me) / [LeetCode](https://leetcode.com/u/ccaoishere/) / [HackerRank](https://www.hackerrank.com/profile/ccaoishere)
 - **⚠️ Other accounts with this username are not mine, except for those I have listed above.**
 
 <h3 align="left"> Stats </h3>
