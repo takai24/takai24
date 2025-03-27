@@ -1,23 +1,46 @@
-<h1 align="center"> Hi👋 </h1>
+<h1 align="center"> Hello👋 </h1>
 
-- 🌱 Just getting started with coding.
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 1; min-width: 250px;">
+        <i>
+            <p> IT major at <a href="https://www.hcmus.edu.vn/" target="_blank">University of Science - VNUHCM</a> 
+                <img src="./media/chika-dance.gif" width="25px" style="margin-left: 5px;">
+            </p>
+            <p> Night time programmer. 
+                <img src="./media/robcode.gif" width="25px" style="margin-left: 10px;">
+            </p>
+        </i>
+    </div>
+    <img src="https://cc4dev.github.io/assets/asahi.gif" style="width: 50%; max-width: 300px; height: auto; margin-right: auto;">
+</div>
 
-- 📝 ***Not*** regularly write articles on [cc4dev.is-a.dev](https://cc4dev.is-a.dev)
+</br>
 
-- 💬 Ask me how to spend time looking at NCS visualizers (optional).
+```javascript
+const cc4dev = {
+    pronoun: "he" | "him",
+    code: ["C++", "Python", "HTML", "CSS", "JavaScript"],
+    skill: {
+        problemSolving: "decent",
+        frontEnd: "not so bad",
+    },
+    codePlatform: {
+        leetcode: "ccaoishere",
+        hackerrank: "ccaoishere"
+    },
+    contact: {
+        email: "cc4dev@proton.me",
+        discord: NULL
+    }
+    funFact: "Although I'm a night time programmer, I'm not a coffee person."
+}
+```
 
-- ⚡ Fun fact: I don't know if there is a fun fact about me or not.
+</br>
 
-<h3 align="left"> Contact </h3>
-
-- [cc4dev@proton.me](mailto:cc4dev@proton.me) / [LeetCode](https://leetcode.com/u/ccaoishere/) / [HackerRank](https://www.hackerrank.com/profile/ccaoishere)
-- **⚠️ Other accounts with this username are not mine, except for those I have listed above.**
-
-<h3 align="left"> Stats </h3>
-<div>
-<img src="https://raw.githubusercontent.com/cc4dev/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-
-<img src="https://raw.githubusercontent.com/cc4dev/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+<div width="100%" style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center;">
+    <img src="https://cc4dev.is-a.dev/assets/senko.gif">
+    <i> <p> That's it, thanks for coming here! </p> </i>
 </div>
 
 > [!NOTE]  
