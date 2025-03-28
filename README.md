@@ -1,7 +1,7 @@
 ## Hello 👋
 
 <p align="center">
-  <img src="https://cc4dev.github.io/assets/asahi.gif" width="50%" max-width="300px">
+  <img src="https://cc4dev.github.io/assets/asahi.gif" width="10%" max-width="300px">
 </p>
 
 <p> <i> IT major at <a href="https://www.hcmus.edu.vn/">University of Science - VNUHCM</a> <img src="./media/chika-dance.gif" width="25px"> </i> </p>
@@ -32,8 +32,7 @@ const cc4dev = {
     <img src="https://cc4dev.is-a.dev/assets/senko.gif">
 </p>
 
-> **Note:**
->
-> ![](https://cc4dev.github.io/assets/miku-approved.gif)
+<p align="center"> Thanks for visiting! 😊 </p>
 
-Thanks for visiting! 😊
+> **Note:**
+> ![](https://cc4dev.github.io/assets/miku-approved.gif)
