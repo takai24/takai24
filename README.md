@@ -1,7 +1,7 @@
 ## Hello 👋
 
 <p align="center">
-  <img src="https://cc4dev.github.io/assets/asahi.gif" width="10%" max-width="300px">
+  <img src="https://cc4dev.github.io/assets/asahi.gif" width="25%" max-width="300px">
 </p>
 
 <p> <i> IT major at <a href="https://www.hcmus.edu.vn/">University of Science - VNUHCM</a> <img src="./media/chika-dance.gif" width="25px"> </i> </p>
