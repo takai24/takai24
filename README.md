@@ -1,19 +1,19 @@
 <h1 align="center"> Hello👋 </h1>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 1; min-width: 250px;">
-        <i>
-            <p> IT major at <a href="https://www.hcmus.edu.vn/" target="_blank">University of Science - VNUHCM</a> 
-                <img src="./media/chika-dance.gif" width="25px" style="margin-left: 5px;">
-            </p>
-            <p> Night time programmer. 
-                <img src="./media/robcode.gif" width="25px" style="margin-left: 10px;">
-            </p>
-        </i>
+<div style="display: flex;">
+    <div>
+        <p align="left">
+        <i> IT major at <a href="https://www.hcmus.edu.vn/" target="_blank">University of Science - VNUHCM</a> </i>
+        <img src="./media/chika-dance.gif" width="25px" style="margin-left: 5px;">
+        </p>
+        <p>
+            <i> Night time programmer. <img src="./media/robcode.gif" width="25px" style="margin-left: 10px;"> </i>
+        </p>
     </div>
-    <img src="https://cc4dev.github.io/assets/asahi.gif" style="width: 50%; max-width: 300px; height: auto; margin-right: auto;">
+    <p align="right">
+        <img src="https://cc4dev.github.io/assets/asahi.gif" style="width: 50%; max-width: 300px;">
+    </p>
 </div>
-
 </br>
 
 ```javascript
