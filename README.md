@@ -1,14 +1,15 @@
 <h1 align="center"> Hello👋 </h1>
 
 <div style="display: flex;">
-    <div>
-        <p align="left">
-        <i> IT major at <a href="https://www.hcmus.edu.vn/" target="_blank">University of Science - VNUHCM</a> </i>
-        <img src="./media/chika-dance.gif" width="25px" style="margin-left: 5px;">
-        </p>
-        <p>
+    <div align="left">
+        <text>
+            <i> IT major at <a href="https://www.hcmus.edu.vn/" target="_blank">University of Science - VNUHCM</a> </i>
+            <img src="./media/chika-dance.gif" width="25px" style="margin-left: 5px;">
+        </text>
+        </br>
+        <text>
             <i> Night time programmer. <img src="./media/robcode.gif" width="25px" style="margin-left: 10px;"> </i>
-        </p>
+        </text>
     </div>
     <div align="right">
         <img src="https://cc4dev.github.io/assets/asahi.gif" style="width: 50%; max-width: 300px;">
