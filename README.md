@@ -10,9 +10,9 @@
             <i> Night time programmer. <img src="./media/robcode.gif" width="25px" style="margin-left: 10px;"> </i>
         </p>
     </div>
-    <p align="right">
+    <div align="right">
         <img src="https://cc4dev.github.io/assets/asahi.gif" style="width: 50%; max-width: 300px;">
-    </p>
+    </div>
 </div>
 </br>
 
