@@ -1,21 +1,12 @@
-<h1 align="center"> Hello👋 </h1>
+## Hello 👋
 
-<div style="display: flex;">
-    <div align="left">
-        <text>
-            <i> IT major at <a href="https://www.hcmus.edu.vn/" target="_blank">University of Science - VNUHCM</a> </i>
-            <img src="./media/chika-dance.gif" width="25px" style="margin-left: 5px;">
-        </text>
-        </br>
-        <text>
-            <i> Night time programmer. <img src="./media/robcode.gif" width="25px" style="margin-left: 10px;"> </i>
-        </text>
-    </div>
-    <div align="right">
-        <img src="https://cc4dev.github.io/assets/asahi.gif" style="width: 50%; max-width: 300px;">
-    </div>
-</div>
-</br>
+<p align="center">
+  <img src="https://cc4dev.github.io/assets/asahi.gif" width="50%" max-width="300px">
+</p>
+
+<p> <i> IT major at <a href="https://www.hcmus.edu.vn/">University of Science - VNUHCM</a> <img src="./media/chika-dance.gif" width="25px"> </i> </p>
+
+<p> <i> Night time programmer. <img src="./media/robcode.gif" width="25px"> </i> </p>
 
 ```javascript
 const cc4dev = {
@@ -31,18 +22,18 @@ const cc4dev = {
     },
     contact: {
         email: "cc4dev@proton.me",
-        discord: NULL
-    }
+        discord: null
+    },
     funFact: "Although I'm a night time programmer, I'm not a coffee person."
-}
+};
 ```
 
-</br>
-
-<div width="100%" style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center;">
+<p align="center">
     <img src="https://cc4dev.is-a.dev/assets/senko.gif">
-    <i> <p> That's it, thanks for coming here! </p> </i>
-</div>
+</p>
 
-> [!NOTE]  
+> **Note:**
+>
 > ![](https://cc4dev.github.io/assets/miku-approved.gif)
+
+Thanks for visiting! 😊
