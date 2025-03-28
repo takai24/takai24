@@ -34,5 +34,5 @@ const cc4dev = {
 
 <p align="center"> Thanks for visiting! 😊 </p>
 
-> **Note:**
+> [!IMPORTANT]
 > ![](https://cc4dev.github.io/assets/miku-approved.gif)
