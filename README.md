@@ -1,7 +1,7 @@
 <h1> Hello 👋 </h1>
 
 <p align="center">
-    <img src="https://cc4dev.is-a.dev/assets/senko.gif">
+    <img src="https://takai24.github.io/assets/senko.gif">
 </p>
 
 <h2> About Me </h2>
