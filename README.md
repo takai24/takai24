@@ -13,9 +13,9 @@
 
 <h2> How to Reach Me </h2>
 <ul>
-    <li> Email: <a href="mailto:cc4dev@proton.me">cc4dev@proton.me</a> </li>
-    <li> Discord: <a href="https://discord.com/">wise.lawrence</a> </li>
+    <li> Email: <a href="takai1124@proton.me">takai1124@proton.me</a> </li>
+    <li> Discord: <a href="https://discord.com/">cc.7z</a> </li>
 </ul>
 
 > [!IMPORTANT]
-> ![](https://cc4dev.github.io/assets/miku-approved.gif)
+> ![](https://takai24.github.io/assets/miku-approved.gif)
