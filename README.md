@@ -1,26 +1,37 @@
-<h1> Hello 👋 </h1>
+# Welcome 👋
 
-<p align="center">
-    <img src="./media/senko.gif">
-</p>
 
-<h2> About Me </h2>
-<p> I'm currently studying IT at <b><a href="https://www.hcmus.edu.vn/">University of Science - VNUHCM</a></b> &nbsp;<img src="./media/cat-smile.webp" width="25px"> </p>
-<p> Random stuff: <b><a href="https://takai24.github.io">takai24.is-a.dev</a> &nbsp;<img src="./media/fauna.gif" width="25px"></b> </p>
+```python
+#!/usr/bin/env python
 
-<h2> My Skills </h2>
-<p> <i> Will be updated... </i> </p>
+class MyProfile:
+    def __init__(self):
+        self.name = "Ducc"
+        self.university = "University of Science - VNUHCM"
+        self.major = None #Haven't been decided yet
+    
+    def hello():
+        print("Glad you're here. Have fun looking around!")
+    
+me = MyProfile()
+me.hello()
+```
 
-<h2> Stats </h2>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=takai24&show_icons=true&theme=tokyonight">
-</p>
+Personal Website: [takai24.is-a.dev](https://takai24.github.io) ![Übel.gif](./media/ubel-24px.gif)
 
-<h2> How to Reach Me </h2>
-<ul>
-    <li> Email: <a href="takai1124@proton.me">takai1124@proton.me</a> </li>
-    <li> Discord: <a href="https://lanyard.cnrad.dev/api/800173074166710282">cc.7z</a></li>
-</ul>
+## 📊 GitHub Stats
+![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/takai24/github-stats/refs/heads/master/generated/languages.svg)
+![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/takai24/github-stats/refs/heads/master/generated/overview.svg)
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=takai24">
+
+## 💬 Contact
+
+![mailto:takai1124@proton.me](https://img.shields.io/badge/takai1124@proton.me-ffffff?style=flat&logo=proton-mail)
+![](https://img.shields.io/badge/cc.7z-ffffff?style=flat&logo=discord)
+
+![visitor-badge.laobi.icu](https://visitor-badge.laobi.icu/badge?page_id=takai24)
 
 > [!IMPORTANT]
 > ![](./media/miku-approved.gif)
