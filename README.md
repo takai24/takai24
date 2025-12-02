@@ -1,6 +1,5 @@
 # Welcome 👋
 
-
 ```python
 #!/usr/bin/env python
 
@@ -24,14 +23,14 @@ Personal Website: [takai24.is-a.dev](https://takai24.github.io) ![Übel.gif](./m
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/takai24/github-stats/refs/heads/master/generated/overview.svg)
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=takai24">
+![](https://github-profile-trophy.vercel.app/?username=takai24)
 
 ## 💬 Contact
 
 ![mailto:takai1124@proton.me](https://img.shields.io/badge/takai1124@proton.me-ffffff?style=flat&logo=proton-mail)
 ![cc.7z](https://img.shields.io/badge/cc.7z-ffffff?style=flat&logo=discord)
 
-![visitor-badge.laobi.icu](https://visitor-badge.laobi.icu/badge?page_id=takai24)
+![visitor-badge.laobi.icu](https://visitor-badge.laobi.icu/badge?page_id=takai24&left_text=Visitor%20Count:)
 
 > [!IMPORTANT]
 > ![](./media/miku-approved.gif)
