@@ -29,7 +29,7 @@ Personal Website: [takai24.is-a.dev](https://takai24.github.io) ![Übel.gif](./m
 ## 💬 Contact
 
 ![mailto:takai1124@proton.me](https://img.shields.io/badge/takai1124@proton.me-ffffff?style=flat&logo=proton-mail)
-![](https://img.shields.io/badge/cc.7z-ffffff?style=flat&logo=discord)
+![cc.7z](https://img.shields.io/badge/cc.7z-ffffff?style=flat&logo=discord)
 
 ![visitor-badge.laobi.icu](https://visitor-badge.laobi.icu/badge?page_id=takai24)
 
